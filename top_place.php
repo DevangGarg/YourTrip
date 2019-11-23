@@ -32,7 +32,7 @@
 
 <body>
     <!--::header part start::-->
-    <header class="main_menu">
+      <header class="main_menu">
             <div class="sub_menu">
                 <div class="container">
                     <div class="row">
@@ -46,7 +46,7 @@
                         </div>
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="sub_menu_social_icon">
-                                <span><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
+                                <span><a><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
                             </div>
                         </div>
                     </div>
@@ -92,8 +92,7 @@
                     </div>
                 </div>
             </div>
-        </header>
-        <!-- Header part end-->
+        </header>    <!-- Header part end-->    <!-- Header part end-->
 
     <!-- breadcrumb start-->
     <section class="breadcrumb breadcrumb_bg">
@@ -119,13 +118,73 @@
                 <div class="col-xl-6">
                     <div class="section_tittle text-center">
                         <h2>Top Places to visit</h2>
-                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.</p>
+                        <p>There is something particularly fascinating about seeing places you know in a piece of art - be that in a film, or a photograph, or a painting.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="single_place">
+                        <img src="photos/kasol-to-kheerganga-trek_1476339728_ldi6E.jpg" alt="">
+                        <div class="hover_Text d-flex align-items-end justify-content-between">
+                            <div class="hover_text_iner">
+                                <a href="#" class="place_btn">travel</a>
+                                <h3>Kheerganga</h3>
+                                <p>Himachal Pradesh, India</p>
+                            </div>
+                            <div class="details_icon text-right">
+                                <i class="ti-share"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="single_place">
+                        <img src="photos/Indias-Most-Beautiful-Beaches-Goa-Hero2.jpg" alt="">
+                        <div class="hover_Text d-flex align-items-end justify-content-between">
+                            <div class="hover_text_iner">
+                                <a href="#" class="place_btn">travel</a>
+                                <h3>Palolem Beach</h3>
+                                <p>Goa, India</p>
+                            </div>
+                            <div class="details_icon text-right">
+                                <i class="ti-share"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="single_place">
+                        <img src="photos/Pilgrimage.jpg" alt="">
+                        <div class="hover_Text d-flex align-items-end justify-content-between">
+                            <div class="hover_text_iner">
+                                <a href="#" class="place_btn">travel</a>
+                                <h3>Bodh Gaya</h3>
+                                <p>Bihar, India</p>
+                            </div>
+                            <div class="details_icon text-right">
+                                <i class="ti-share"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="single_place">
+                        <img src="photos/dodital.jpg" alt="">
+                        <div class="hover_Text d-flex align-items-end justify-content-between">
+                            <div class="hover_text_iner">
+                                <a href="#" class="place_btn">travel</a>
+                                <h3>Dodital Lake</h3>
+                                <p>Himachal Pradesh, India</p>
+                            </div>
+                            <!--<div class="details_icon text-right">
+                                <i class="ti-share"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="single_place">
                         <img src="img/single_place_1.png" alt="">
                         <div class="hover_Text d-flex align-items-end justify-content-between">
                             <div class="hover_text_iner">
@@ -177,67 +236,7 @@
                                 <a href="#" class="place_btn">travel</a>
                                 <h3>Saintmartine Iceland</h3>
                                 <p>Technaf, Bangladesh</p>
-                            </div>
-                            <div class="details_icon text-right">
-                                <i class="ti-share"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="single_place">
-                        <img src="img/single_place_1.png" alt="">
-                        <div class="hover_Text d-flex align-items-end justify-content-between">
-                            <div class="hover_text_iner">
-                                <a href="#" class="place_btn">travel</a>
-                                <h3>Saintmartine Iceland</h3>
-                                <p>Technaf, Bangladesh</p>
-                            </div>
-                            <div class="details_icon text-right">
-                                <i class="ti-share"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="single_place">
-                        <img src="img/single_place_2.png" alt="">
-                        <div class="hover_Text d-flex align-items-end justify-content-between">
-                            <div class="hover_text_iner">
-                                <a href="#" class="place_btn">travel</a>
-                                <h3>Saintmartine Iceland</h3>
-                                <p>Technaf, Bangladesh</p>
-                            </div>
-                            <div class="details_icon text-right">
-                                <i class="ti-share"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="single_place">
-                        <img src="img/single_place_3.png" alt="">
-                        <div class="hover_Text d-flex align-items-end justify-content-between">
-                            <div class="hover_text_iner">
-                                <a href="#" class="place_btn">travel</a>
-                                <h3>Saintmartine Iceland</h3>
-                                <p>Technaf, Bangladesh</p>
-                            </div>
-                            <div class="details_icon text-right">
-                                <i class="ti-share"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="single_place">
-                        <img src="img/single_place_4.png" alt="">
-                        <div class="hover_Text d-flex align-items-end justify-content-between">
-                            <div class="hover_text_iner">
-                                <a href="#" class="place_btn">travel</a>
-                                <h3>Saintmartine Iceland</h3>
-                                <p>Technaf, Bangladesh</p>
-                            </div>
+                            </div>-->
                             <div class="details_icon text-right">
                                 <i class="ti-share"></i>
                             </div>

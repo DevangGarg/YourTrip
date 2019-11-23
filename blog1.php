@@ -31,8 +31,7 @@
 </head>
 
 <body>
-   <!--::header part start::-->
-   <header class="main_menu">
+      <header class="main_menu">
         <div class="sub_menu">
             <div class="container">
                 <div class="row">
@@ -46,7 +45,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-12 col-md-6">
                         <div class="sub_menu_social_icon">
-                            <span><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
+                            <span><a><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
                         </div>
                     </div>
                 </div>
@@ -91,7 +90,7 @@
             </div>
         </div>
     </header>
-    <!-- Header part end-->
+        <!-- Header part end--> <!-- Header part end-->
 
     <!-- breadcrumb start-->
     <section class="breadcrumb breadcrumb_bg">

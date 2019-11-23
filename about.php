@@ -31,8 +31,7 @@
 </head>
 
 <body>
-    <!--::header part start::-->
-    <header class="main_menu">
+   <header class="main_menu">
             <div class="sub_menu">
                 <div class="container">
                     <div class="row">
@@ -93,7 +92,7 @@
                 </div>
             </div>
         </header>
-        <!-- Header part end-->
+        <!-- Header part end-->     <!-- Header part end-->
 
     <!-- breadcrumb start-->
     <section class="breadcrumb breadcrumb_bg">
@@ -136,7 +135,7 @@
     <!-- about us css end-->
 
     <!--top place start-->
-    <section class="event_part section_padding">
+    <!--<section class="event_part section_padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -181,7 +180,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!--top place end-->
     <!--top place start-->
     <section class="client_review section_padding">
@@ -229,8 +228,8 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6">
                     <div class="section_tittle text-center">
-                        <h2>Our gallery</h2>
-                        <p>WWaters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.</p>
+                        <h2>Collections</h2>
+                        <p>These are some great pictures that our websites users get through their journey</p>
                     </div>
                 </div>
             </div>
@@ -238,23 +237,23 @@
                 <div class="col-lg-12">
                     <div class="card-columns">
                         <div class="card">
-                            <a href="img/gallery/gallery_1.png" class="gallery_img">
-                               <img src="img/gallery/gallery_1.png" class="card-img-top" alt="">
+                            <a href="photos/pilgrim4.jpg" class="gallery_img">
+                               <img src="photos/pilgrim4.jpg" class="card-img-top" alt="">
                             </a>
                         </div>
                         <div class="card">
-                            <a href="img/gallery/gallery_3.png" class="gallery_img">
-                                <img src="img/gallery/gallery_3.png" class="card-img-top" alt="">
+                            <a href="photos/350px-Varkala.jpg" class="gallery_img">
+                                <img src="photos/350px-Varkala.jpg" class="card-img-top" alt="">
                             </a>
                         </div>
                         <div class="card">
-                            <a href="img/gallery/gallery_2.png" class="gallery_img">
-                                <img src="img/gallery/gallery_2.png" class="card-img-top" alt="">
+                            <a href="photos/ClearwaterBeach-59cd9d74685fbe0011577afd.jpg" class="gallery_img">
+                                <img src="photos/ClearwaterBeach-59cd9d74685fbe0011577afd.jpg" class="card-img-top" alt="">
                             </a>
                         </div>
                         <div class="card">
-                            <a href="img/gallery/gallery_4.png" class="gallery_img">
-                                <img src="img/gallery/gallery_4.png" class="card-img-top" alt="">
+                            <a href="photos/Pilgrimage.jpg" class="gallery_img">
+                                <img src="photos/Pilgrimage.jpg" class="card-img-top" alt="">
                             </a>
                         </div>
                         <div class="card">
