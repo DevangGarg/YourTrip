@@ -105,9 +105,9 @@
                             <div class="row justify-content-end">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
+                                        <h5>Tour Description</h5>
+                                        <h2>Bodh Gaya, Bihar</h2>
+                                        <p>Bodh Gaya is a religious site and place of pilgrimage associated with the Mahabodhi Temple Complex in Gaya district in the Indian state of Bihar. 
                                         </p>
                                     </div>
                                 </div>
@@ -117,9 +117,9 @@
                             <div class="row justify-content-end">
                                 <div class="ol-lg-6 col-md-6">
                                     <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
+                                        <h5>Tour Description</h5>
+                                        <h2>Taj Mahal, Agra</h2>
+                                        <p>Widely thought as one of the most beautiful buildings in the world, it is one of India's biggest tourist attractions.
                                         </p>
                                     </div>
                                 </div>
@@ -129,9 +129,9 @@
                             <div class="row justify-content-end">
                                 <div class="ol-lg-6 col-md-6">
                                     <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
+                                        <h5>Tour Description</h5>
+                                        <h2>Hawa Mahal, Jaipur</h2>
+                                        <p>The best time to visit Hawa Mahal is in the early morning when the sun enters the rooms from the windows. The mahal is illuminated with golden sun lights.
                                         </p>
                                     </div>
                                 </div>
@@ -150,10 +150,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="content_iner">
-                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our Air very one. Whales grass is fish whales winged night yielding land creeping that seed appear were bearing.</p>
-                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our Air very one. Whales grass is fish whales winged night yielding land creeping that seed appear were bearing.
-                        Their</p>
-                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our Air very one. Whales grass is fish whales winged night yielding land creeping that seed appear were bearing.</p>
+                        <p>Bodh Gaya is a religious site and place of pilgrimage associated with the Mahabodhi Temple Complex in Gaya district in the Indian state of Bihar.One of the most important pilgrimage sites for Buddhists, Bodhgaya is a village in the state of Bihar. It was here under the Bodhi tree that Gautama Buddha attained enlightenment.</p>
+                        <p>The exterior decorations of the Taj Mahal are among the finest in Mughal architecture. As the surface area changes, the decorations are refined proportionally.Widely thought as one of the most beautiful buildings in the world, it is one of India's biggest tourist attractions.</p>
+                        <p>The best time to visit Hawa Mahal is in the early morning when the sun enters the rooms from the windows. The mahal is illuminated with golden sun lights.Contrast to the rich decoration of the exterior, the interiors of the mahal is much simpler. But it is also where you will find the best view of the city of Jaipur.</p>
                     </div>
                 </div>
             </div>

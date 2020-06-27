@@ -170,7 +170,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="single_place">
-                        <img src="photos/dodital.jpg" alt="">
+                        <img src="photos/ind.jpeg" alt="">
                         <div class="hover_Text d-flex align-items-end justify-content-between">
                             <div class="hover_text_iner">
                                 <a href="#" class="place_btn">travel</a>

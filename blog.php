@@ -46,7 +46,7 @@
                     </div>
                     <div class="col-lg-6 col-sm-12 col-md-6">
                         <div class="sub_menu_social_icon">
-                            <span><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
+                            <span><a><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog.php">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -150,7 +150,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog.php">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -172,7 +172,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog.php">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -194,7 +194,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog.php">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -216,7 +216,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog.php">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that

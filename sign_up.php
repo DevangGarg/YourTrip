@@ -2,8 +2,8 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>PHP Learning</title>
-  
+  <title>Login Page</title>
+  <link rel="icon" href="img/favicon.png">
   
   <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans:600'>
       <link rel="stylesheet" href="style.css">

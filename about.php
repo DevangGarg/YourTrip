@@ -45,7 +45,7 @@
                         </div>
                         <div class="col-lg-6 col-sm-12 col-md-6">
                             <div class="sub_menu_social_icon">
-                                <span><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</a></span>
+                                <span><i class="flaticon-phone-call"></i>+XXX XXX XXX XXX</span>
                             </div>
                         </div>
                     </div>
@@ -132,55 +132,6 @@
             </div>
         </div>
     </section>
-    <!-- about us css end-->
-
-    <!--top place start-->
-    <!--<section class="event_part section_padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="event_slider owl-carousel" >
-                        <div class="single_event_slider">
-                            <div class="row justify-content-end">
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_event_slider">
-                            <div class="row justify-content-end">
-                                <div class="ol-lg-6 col-md-6">
-                                    <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_event_slider">
-                            <div class="row justify-content-end">
-                                <div class="ol-lg-6 col-md-6">
-                                    <div class="event_slider_content">
-                                        <h5>Upcoming Event</h5>
-                                        <h2>Maldeve - Asia</h2>
-                                        <p>Waters make fish every without firmament saw had. Morning air subdue. Our. Air very one. Whales grass is fish whales winged.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
     <!--top place end-->
     <!--top place start-->
     <section class="client_review section_padding">
@@ -257,8 +208,13 @@
                             </a>
                         </div>
                         <div class="card">
-                            <a href="img/gallery/gallery_5.png" class="gallery_img">
-                                <img src="img/gallery/gallery_5.png" class="card-img-top" alt="">
+                            <a href="photos/taj-mahal-1024x690.jpg" class="gallery_img">
+                                <img src="photos/taj-mahal-1024x690.jpg" class="card-img-top" alt="">
+                            </a>
+                        </div>
+                        <div class="card">
+                            <a href="photos/Albert_Hall-Jaipur.jpg" class="gallery_img">
+                                <img src="photos/Albert_Hall-Jaipur.jpg" class="card-img-top" alt="">
                             </a>
                         </div>
                       </div>
@@ -269,6 +225,7 @@
     <!--::gallery part end::-->
 
     <!-- footer part start-->
+    <!-- Add footer in other pages as well where this footer is present-->
     <footer class="footer-area">
         <div class="container">
             <div class="row justify-content-between">
@@ -276,23 +233,20 @@
                     <div class="single-footer-widget">
                         <h4>Discover Destination</h4>
                         <ul>
-                            <li><a href="#">Miami, USA</a></li>
-                            <li><a href="#">California, USA</a></li>
-                            <li><a href="#">London, UK</a></li>
-                            <li><a href="#">Saintmartine, Bangladesh</a></li>
-                            <li><a href="#">Mount Everast, India</a></li>
-                            <li><a href="#">Sidney, Australia</a></li>
-                            <li><a href="#">Miami, USA</a></li>
-                            <li><a href="#">California, USA</a></li>
-                            <li><a href="#">London, UK</a></li>
-                            <li><a href="#">Saintmartine, Bangladesh</a></li>
-                            <li><a href="#">Mount Everast, India</a></li>
-                            <li><a href="#">Sidney, Australia</a></li>
+                            <li><a href="photos/dodital4.jpeg" class="gallery_img"lass="gallery_img">Dodital, Uttarakhand</a></li>
+                            <li><a href="photos/download.jpeg" class="gallery_img">Bodh Gaya, Bihar</a></li>
+                            <li><a href="photos/Indias-Most-Beautiful-Beaches-Goa-Hero2.jpg" class="gallery_img">Palolam Beach, Goa</a></li>
+                            <li><a href="photos/taj-mahal-1024x690.jpg" class="gallery_img">Taj Mahal, Agra</a></li>
+                            <li><a href="photos/mysorepalace.jpg" class="gallery_img">Ambavilas Palace, Mysore</a></li>
+                            <li><a href="photos/hawa_mahal.jpg" class="gallery_img">Hawa Mahal, Jaipur</a></li>
+                            <li><a href="photos/GettyImages-534909771-580f5f4c5f9b58564cc08bf2.jpg" class="gallery_img">Bangalore Palace, Bangalore</a></li>
+                            <li><a href="photos/Albert_Hall-Jaipur.jpg" class="gallery_img">Albert Hall, Jaipur</a></li>
+                            <li><a href="photos/The-Golden-Temple-Amritsar.jpg" class="gallery_img">Golden Temple, Amritsar</a></li>
                         </ul>
 
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <!--<div class="col-sm-6 col-md-4">
                     <div class="single-footer-widget">
                         <h4>Subscribe Newsletter</h4>
                         <div class="form-wrap" id="mc_embed_signup">
@@ -314,7 +268,7 @@
                         </div>
                         <p>Subscribe our newsletter to get update news and offers</p>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-sm-6 col-md-3">
                     <div class="single-footer-widget footer_icon">
                         <h4>Contact Us</h4>
